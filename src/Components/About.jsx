@@ -24,19 +24,25 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "Hello! I'm a Computer Science student focused on building a strong foundation in programming, software development, and computer science theory. I've started my journey with Java & Python, I'm excited about creating web and mobile applications. I'm eager to explore new technologies. Currently, I'm diving into data structures and algorithms (DSA) and getting my feet wet in frontend development. I'm open to connecting on LinkedIn for new opportunities or discussions.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "HTML",
+  "CSS",
+  "Javascript",
+  "Java",
+  "SQL",
+  "NodeJS",
+  "ExpressJS",
+  "GitHub",
+  "Google Cloud",
+  "Microsoft Azure",
+  "Web Designing",
+  "FrontEnd Developer",
 ];
 
 /**
